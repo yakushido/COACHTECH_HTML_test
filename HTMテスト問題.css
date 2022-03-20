@@ -1,0 +1,31 @@
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.coachtech{
+  width: 100vw;
+}
+.coachtech>h1{
+  font-size: 20px;
+  margin:20px 0;
+}
+.intro>h2,
+.blog>h2,
+footer>h2{
+  font-size: 20px;
+  margin: 20px 0;
+}
+.intro span{
+  font-weight: bold;
+}
+.blog>p{
+  margin: 10px 0;
+}
+.blog>img{
+  width: 100%;
+}
+tr>td:first-child{
+  text-align: center;
+  vertical-align: middle;
+}
